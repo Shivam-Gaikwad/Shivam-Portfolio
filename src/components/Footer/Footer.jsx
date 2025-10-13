@@ -14,7 +14,7 @@ const Footer = () => {
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
-        <h2 className="text-xl font-semibold text-purple-500">Tarun Kaushik</h2>
+        <h2 className="text-xl font-semibold text-purple-500">Shivam Gaikwad</h2>
 
         {/* Navigation Links - Responsive */}
         <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mt-4">
@@ -39,9 +39,9 @@ const Footer = () => {
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
             // { icon: <FaFacebook />, link: "https://www.facebook.com/tarun.kaushik.3511041/" },
-            { icon: <FaTwitter />, link: "https://twitter.com/CodingMaster6?s=09" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/tarun-kaushik-553b441a4" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/coding_.master/" },
+            { icon: <FaTwitter />, link: "https://x.com/Shivamgaikwad74?t=R9kWTyYjpDGTj93QEFrQiA&s=08" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/shivamgaikwad572" },
+            { icon: <FaInstagram />, link: "https://www.instagram.com/gaikwadshivam572?igsh=MXZudnl2ODd5cHU5cA==" },
             // { icon: <FaYoutube />, link: "https://www.youtube.com/codingmasteryt" },
             
           ].map((item, index) => (
