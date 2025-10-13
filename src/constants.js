@@ -34,7 +34,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
-import aiRivalsLogo from './assets/company_logo/aiRivalsLogo.png';
+import aiRivalsLogo from './assets/company_logo/aiRivalslogo.png';
 import exaltasoftLogo from './assets/company_logo/exaltasoft-logo.jpg';
 import codingRajaLogo from './assets/company_logo/codingRaja.png';
 
