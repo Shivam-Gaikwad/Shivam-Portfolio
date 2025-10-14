@@ -190,8 +190,8 @@ export const SkillsInfo = [
     {
       id: 2,
       img: vpsLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
-      date: "Apr 2017 - March 2018",
+      school: "L.R.P.D. Arts Commerce and Science College, Rahuri",
+      date: "June 2020 - March 2022",
       grade: "64.33%",
       desc: "I completed my class 12 education from Arts's commerce and Science college, Rahuri, under the Maharashtra State board, where I studied Physics, Chemistry, and Mathematics and Biology(PCMB).",
       degree: "HSC(XII) - PCMB",
@@ -208,16 +208,16 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
-    {
-      id: 0,
-      title: "GitHub Profile Detective",
-      description:
-        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
-      image: githubdetLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
-    },
+    // {
+    //   id: 0,
+    //   title: "GitHub Profile Detective",
+    //   description:
+    //     "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+    //   image: githubdetLogo,
+    //   tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+    //   github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+    //   webapp: "https://githubprofiledetective.netlify.app/",
+    // },
     // {
     //   id: 1,
     //   title: "CS Prep",
