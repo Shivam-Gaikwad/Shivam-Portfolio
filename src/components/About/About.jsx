@@ -41,8 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I’m an enthusiastic Frontend Developer passionate about crafting responsive, user-friendly interfaces with a strong focus on UI/UX design. Currently learning Backend Development using Python to become a full-stack developer who bridges creativity and functionality.
-           I love turning ideas into visually appealing, interactive web experiences that leave an impact. With a continuous drive to learn and improve, I aim to build solutions that combine modern design with clean, efficient code.
+           I’m an enthusiastic Frontend Developer passionate about building responsive, user-friendly web applications with a strong focus on UI/UX design. I enjoy transforming ideas into visually appealing and interactive digital experiences using modern web technologies.
 
 
           </p>
