@@ -256,12 +256,12 @@ export const SkillsInfo = [
         "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
       image: taskremLogo,
       tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-      github: "https://github.com/codingmastr/Task-Reminder-Tool",
-      webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
+      // github: "https://github.com/codingmastr/Task-Reminder-Tool",
+      // webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
     },
     {
       id: 5,
-      title: "Webverse Digital",
+      title: "Portfolio Website",
       description:
         "Developed the official website for Webverse Digital, a creative digital marketing agency, using React.js. Built a modern, responsive, and visually engaging user interface with smooth animations and interactive components to effectively showcase the agency's services and brand identity. Focused on performance optimization, component-based architecture, and seamless user experience across devices.",
       image: webverLogo,
@@ -286,8 +286,8 @@ export const SkillsInfo = [
         "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
       image: imagesearchLogo,
       tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Search-App",
-      webapp: "https://imagsearch.netlify.app/",
+      // github: "https://github.com/codingmastr/Image-Search-App",
+      // webapp: "https://imagsearch.netlify.app/",
     },
     {
       id: 8,
