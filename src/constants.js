@@ -263,11 +263,11 @@ export const SkillsInfo = [
       id: 5,
       title: "Webverse Digital",
       description:
-        "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
+        "Developed the official website for Webverse Digital, a creative digital marketing agency, using React.js. Built a modern, responsive, and visually engaging user interface with smooth animations and interactive components to effectively showcase the agency's services and brand identity. Focused on performance optimization, component-based architecture, and seamless user experience across devices.",
       image: webverLogo,
-      tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://webversedigital.com/",
+      tags: ["HTML", "Tailwind CSS", "JavaScript", "React.js"],
+      github: "https://github.com/Shivam-Gaikwad/Shivam-Portfolio",
+      webapp: "https://shivam-gaikwad.vercel.app/",
     },
     // {
     //   id: 6,
